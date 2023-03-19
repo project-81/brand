@@ -3,3 +3,4 @@ venv3*
 tags
 .*cache
 __pycache__
+/svgen
