@@ -1,1 +1,1 @@
-svgen
+svgen>=0.4.5

@@ -1,1 +1,17 @@
-{}
+{
+    "theme": "dev",
+    "circle_color": "primary.background",
+
+    "variants": [
+        {
+            "name": "primary.1", "data": {"circle_color": "primary.1"}
+        },
+        {
+            "name": "primary.2", "data": {"circle_color": "primary.2"}
+        },
+        {
+            "name": "primary.lowlight",
+            "data": {"circle_color": "primary.lowlight"}
+        }
+    ]
+}

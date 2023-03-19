@@ -1,0 +1,16 @@
+---
+primary:
+  # red-crayola
+  1: "#e84855"
+
+  # robin-egg-blue
+  2: "#4ecdc4"
+
+  # moonstone
+  lowlight: "#639fab"
+
+  # onyx
+  background: "#403f4c"
+
+  # white
+  white: "#ffffff"
